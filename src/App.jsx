@@ -3,6 +3,8 @@ import HeroSection from "./componets/HeroSection"
 import FeartureSection from "./componets/feartureSection"
 import  Workflow from "./componets/Workflow"
 import Pricing from "./componets/Pricing"
+import Testimonials from "./componets/Testimonials"
+import Footer from "./componets/Footer"
 
 
 
@@ -15,6 +17,8 @@ const App = () => {
     <FeartureSection />
     <Workflow />
     <Pricing />
+    <Testimonials />
+    <Footer />
 </div>
 
 </div>
